@@ -1,0 +1,212 @@
+body {
+    background-color: #ffffff;
+    color: #000000;
+    font-family: 'Raleway', sans-serif;
+    font-size: 16px;
+}
+
+a {
+    text-decoration: none;
+}
+
+header {
+    background-color: #26201C;
+}
+
+img {
+    max-width: 100%;
+}
+
+main h2 {
+    color: #000000;
+    font-size: 1.5em;
+    font-weight: bold;
+    line-height: 2.25em;
+    margin: 0 0 0.75em 0;
+    text-transform: uppercase;
+}
+
+main h3 {
+    color: #000000;
+    font-size: 1.25em;
+    font-weight: bold;
+    line-height: 1.875em;
+    margin: 0 0 0.625em 0;
+    text-transform: uppercase;
+}
+
+main p,
+main ul {
+    font-size: 1em;
+    line-height: 1.5em;
+    margin: 0 0 1.5em 0;
+}
+
+main a {
+    color: #FF3B77;
+}
+
+main a:hover {
+    color: #A90641;
+    text-decoration: none;
+}
+
+main ul {
+    margin-left: 2em;
+}
+
+main ul li {
+    list-style-type: disc;
+}
+
+footer {
+    color: #e8ddcb;
+    background-color: #26201C;
+    text-align: center;
+    padding: 1em;
+}
+
+footer ul li {
+    list-style-type: none;
+}
+
+footer nav a {
+    color: lightgray;
+}
+
+section {
+    padding: 1em 1em 2em 1em;
+}
+
+
+/********** Banner ************/
+
+body.is-touch #banner {
+    background-attachment: scroll;
+}
+
+#banner {
+    padding: 16em 0 13em 0;
+    background-attachment: fixed;
+    background-image: url("../images/overlay2.png"), url("../images/erica-walker-websites.jpg");
+    background-position: center top;
+    background-size: cover;
+    line-height: 1.75;
+    text-align: center;
+}
+
+#banner:last-child {
+    margin-bottom: 0;
+}
+
+#banner h2 {
+    color: #ffffff;
+    display: inline-block;
+    font-size: 2.5em;
+    line-height: 1.35;
+    margin-bottom: 0.5em;
+}
+
+#banner p {
+    color: #CDFF00;
+    font-size: 1.25em;
+    margin-bottom: 1.5em;
+    text-transform: uppercase;
+}
+
+@media screen and (max-width: 480px) {
+    #banner {
+        padding: 4em 2em 4em 2em;
+    }
+}
+
+@media screen and (max-width: 736px) {
+    #banner {
+        padding: 6em 2em 6em 2em;
+    }
+    #banner br {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 980px) {
+    #banner {
+        padding: 9em 0 7em 0;
+    }
+}
+
+@media screen and (max-width: 1280px) {
+    #banner {
+        padding: 14em 0 11em 0;
+    }
+}
+
+
+/******** End Banner *******************/
+
+#dog {
+    text-align: center;
+}
+
+#projects,
+#contact {
+    background-color: #f1f1f1;
+}
+
+
+/*#reggie {
+    max-width: 35%;
+}*/
+
+
+#svc-action {
+    text-align: center;
+}
+
+#social-icon li {
+    display: inline-block;
+}
+
+@media screen and (min-width: 481px) {
+    footer ul li {
+        display: inline-block;
+        margin-right: 2em;
+    }
+    #reggie {
+        max-width: 50%;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    main h2 {
+        font-size: 2em;
+    }
+    section {
+        padding: 1em 2em 2em 2em;
+    }
+    #banner h2 {
+        font-size: 3.25em;
+    }
+    #banner p {
+        font-size: 1.75em;
+    }
+    #reggie {
+        max-width: 40%;
+    }
+}
+
+@media screen and (min-width: 960px) {
+    main h2 {
+        font-size: 2.25em;
+    }
+   
+    #banner h2 {
+        font-size: 4em;
+    }
+    #banner p {
+        font-size: 1.75em;
+    }
+    #reggie {
+        max-width: 35%;
+    }
+}
