@@ -12,7 +12,7 @@
             <div class="container">
                     <h2>ABOUT</h2>
                     <p>
-                        Hello, I am a web design/developer based in Portland, Oregon. I build websites using WordPress, PHP, JavaScript, and HTML.
+                        Hello, I am a web designer/developer based in Portland, Oregon. I build websites using WordPress, PHP, JavaScript, and HTML.
                     </p>
                     <p>
                         I am currently seeking a web design position with a creative department or agency. If interested, you may contact me using
