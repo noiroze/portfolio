@@ -11,7 +11,7 @@
          <div class="container">
         <h2>Services</h2>
         <p>
-            Whether you are looking update an existing website, create one from scratch, or simply looking to increase your reach through
+            Whether you are looking to update an existing website, create one from scratch, or simply looking to increase your reach through
             marketing, I can work with your individual needs to to give you a stronger online presence.
         </p>
        
@@ -20,7 +20,7 @@
                 <div class="col-lg-4">
 
                     <h4><img src="assets/images/monitor.png" alt="monitor">&nbsp;&nbsp; Web Design & Development</h4>
-                    <p>Want a website that showcases your business? I make sure that your customers can easily access the important information. All sites are responsive and secure (<a href="#contact">ask me about SSL certificates for your site</a>).</p>
+                    <p>Want a website that showcases your business? I make sure that your customers can easily access all of the important information. All sites are responsive, and can be made secure (<a href="#contact">ask me about SSL certificates</a>).</p>
                     <p>With WordPress, I can customize templates to suit your needs. If you are hands-on and would like to regularly update your site with new content (but are new to using WordPress), I provide training to get you started.
                     </p>
                 </div>
@@ -46,6 +46,6 @@
 
         </div>
         <div id="svc-action">
-        <h3>Want to learn out more?<a href="#contact"> Get a free quote today!</a></h3>
+        <h3>Want to learn more?<a href="#contact"> Get a free quote today!</a></h3>
         <div>
     </section>
