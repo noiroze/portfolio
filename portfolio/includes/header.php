@@ -8,14 +8,19 @@
 ?>
 
 <!-- Header -->
+
 <header>
-    <nav id="nav">
+    <a href="#" class="nav-button"></a>
+
+     <nav class="nav">
         <ul>
-            <li><a href=""></a></li>
-            <li><a href=""></a></li>
-            <li><a href=""></a></li>
-            <li><a href=""></a></li>
-            <li><a href=""></a></li>
+           <li><a href="#about">About</a></li>
+           <li><a href="#projects">Recent Projects</a></li>
+           <li><a href="#services">Services</a></li>
+           <li><a href="#contact">Contact</a></li>
         </ul>
-    </nav>
+     </nav>
+
+<a href="#" class="nav-close">Close Menu</a>
+
 </header>
